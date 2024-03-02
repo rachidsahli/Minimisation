@@ -13,5 +13,7 @@ La minimisation est un méthode itérative et adaptative qui calcul en temps ré
 L'allocation du traitement se fait en minimisant le déséquilibre entre les groupes​.
 Elle garantit un équilibre entre les groupes, performante dans les petits échantillons.
 
+Pour pourvoir comparer les résultats de ces deux méthodes, il sera pertinent d'étudier : 
+
 
 
