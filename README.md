@@ -1,19 +1,19 @@
-# Minimisation
-Ce projet consiste en la réalisation d'une étude sur la minimisation qui est une méthode de randomisation.
-La randomisation est un processus statistique dans lequel un mécanisme aléatoire affecte les sujets à différents groupes.
-Très utilisé dans le domaine de la santé et des santés cliniques.
-L'objectif de la randomisation est de garantir l'équilibre au sein de chaque groupe pour permettre la comparabilité des groupes tout en étant imprédictible.
+# Minimization
+This project involves carrying out a study on minimization, which is a randomization method.
+Randomization is a statistical process in which a random mechanism assigns subjects to different groups.
+It is widely used in the field of health and clinical health care.
+The aim of randomization is to guarantee balance within each group, to enable group comparability, while remaining unpredictable.
 
-L'ojectif est de comparer la minimisation de Pocock SJ, Simon R (1975) avec une méthode de randomisation simple.
+The aim is to compare the minimization of Pocock SJ, Simon R (1975) with a simple randomization method.
 
-La randomisation simple consiste en l'attribution pour chaque patient d'un traitement A ou B à proba égale (0,5).
-Cette méthode est certes imprédictible et permet la réduction du biais, mais reste très déséquilibré.
+Simple randomization consists in assigning each patient treatment A or B with equal probabilities (0.5).
+Although this method is unpredictable and reduces bias, it remains highly unbalanced.
 
-La minimisation est un méthode itérative et adaptative qui calcul en temps réel l’attribution du groupe​.
-L'allocation du traitement se fait en minimisant le déséquilibre entre les groupes​.
-Elle garantit un équilibre entre les groupes, performante dans les petits échantillons.
+Minimization is an iterative, adaptive method that calculates group allocation in real time.
+Treatment is allocated by minimizing the imbalance between groups.
+It guarantees a balance between groups, which is particularly effective in small samples.
 
-Pour pourvoir comparer les résultats de ces deux méthodes, il sera pertinent d'étudier : 
+In order to compare the results of these two methods, it will be relevant to study :
 
 
 
