@@ -14,7 +14,12 @@ Treatment is allocated by minimizing the imbalance between groups.
 It guarantees a balance between groups, which is particularly effective in small samples.
 
 In order to compare the results of these two methods, it will be relevant to study :
+                  
                                         - Treatment differences between groups
                                         - P-values for the two methods
+I built the algorithm on Rstudio. I also use Fisher's test and the CMH test.
+There are also packages on R for minimization.
 
+I simulated 1000 studies of 20 and 50 with different patients each time.
+In my minimization, I only took into account the Country variable.
 
