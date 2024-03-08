@@ -14,6 +14,7 @@ Treatment is allocated by minimizing the imbalance between groups.
 It guarantees a balance between groups, which is particularly effective in small samples.
 
 In order to compare the results of these two methods, it will be relevant to study :
-
+                                        - Treatment differences between groups
+                                        - P-values for the two methods
 
 
