@@ -1,4 +1,4 @@
-# Minimization
+# Minimisation
 This project involves carrying out a study on minimization, which is a randomization method.
 Randomization is a statistical process in which a random mechanism assigns subjects to different groups.
 It is widely used in the field of health and clinical health care.
